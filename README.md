@@ -8,6 +8,8 @@
 5. Gain knowledge of the Ethereum ecosystem, including key tools, libraries, and platforms for building and deploying Dapps, such as Truffle, Remix, Ganache, and MetaMask.
 6. Acquire the skills necessary to implement decentralized finance (DeFi) solutions using Solidity and Ethereum, and understand the opportunities and challenges related to this rapidly growing field.
 
+# Part 1
+
 ## Module 1: Introduction to Solidity and Ethereum
 Objectives: 
 1. Understand the fundamentals of programming using the Solidity language.
@@ -23,6 +25,7 @@ Objectives:
 1. Learn how to deploy a smart contract on the Ethereum blockchain.
 2. Create and deploy a basic Smart Contract on the Ethereum blockchain.
 
+# Part 2
 ## Module 4: Advanced Solidity Applications
 Objectives: 
 1. Learn how to create more complex Smart Contracts using advanced features of Solidity programming language.
